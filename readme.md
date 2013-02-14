@@ -9,3 +9,4 @@ A collection of themes and other settings for visual studio.
 - Nina - adapted from http://studiostyl.es/schemes/nina
 - WekeRoad Ink - adapted from http://studiostyl.es/schemes/wekeroad-ink
 - Son of Obsidian - adapted from http://studiostyl.es/schemes/son-of-obsidian
+- Chameleon - adapted from http://studiostyl.es/schemes/chameleon
