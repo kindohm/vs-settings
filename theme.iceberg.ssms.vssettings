@@ -1,0 +1,36 @@
+<UserSettings>
+	<ApplicationIdentity version="10.0"/>
+	<ToolsOptions>
+		<ToolsOptionsCategory name="Environment" RegisteredName="Environment"/>
+	</ToolsOptions>
+	<Category name="Environment_Group" RegisteredName="Environment_Group">
+		<Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="Version">2</PropertyValue>
+			<FontsAndColors Version="2.0">
+				<Categories>
+					<Category GUID="{6BB65C5A-2F31-4BDE-9F48-8A38DC0C63E7}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x00F5F5F5" Background="0x00202020" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{9973EFDF-317D-431C-8BC1-5E88CBFD4F7F}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x00F5F5F5" Background="0x00202020" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontName="Consolas" FontSize="14" CharSet="0" FontIsDefault="No">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x00DBD6BD" Background="0x003D3B32" BoldFont="No"/>
+							<Item Name="Keyword" Foreground="0x00A18D2D" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SQL Operator" Foreground="0x00DBD6BD" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SQL Stored Procedure" Foreground="0x00DDC059" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SQL String" Foreground="0x00FFFFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SQL System Function" Foreground="0x00E3C059" Background="0x02000000" BoldFont="No"/>
+							<Item Name="SQL System Table" Foreground="0x00008000" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+				</Categories>
+			</FontsAndColors>
+		</Category>
+	</Category>
+</UserSettings>
